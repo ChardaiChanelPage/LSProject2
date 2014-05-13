@@ -1,0 +1,216 @@
+0	5th & Gresham
+1	Drew Hall
+2	Gresham Pl
+3	Gresham Pl
+4	Gresham Pl
+5	Gresham Pl
+6	Burr Parking Lot
+7	Burr Parking Lot
+8	Burr Parking Lot
+9	Burr Parking Lot
+10	Gresham & Georgia
+11	Georgia Ave
+12	Gresham & Georgia
+13	Howard China
+14	Georgia Ave
+15	Georgia Ave
+16	Georgia & Girard
+17	Georgia Ave
+18	Georgia Ave
+19	Georgia & 6th
+20	6th St
+21	6th St
+22	6th St
+23	6th St
+24	6th St
+25	6th St
+26	6th St
+27	6th St
+28	6th St
+29	6th St
+30	6th St
+31	6th St
+32	6th & Fairmont
+33	6th & Fairmont
+34	Fairmont St
+35	Fairmont St
+36	Fairmont St
+37	Fairmont St
+38	Fairmont St 
+39	Fairmont & Georgia
+40	Georgia Ave
+41	Georgia Ave
+42	Georgia Ave
+43	Georgia Ave
+44	Georgia Ave
+45	Cook Hall
+46	6th St
+47	6th St
+48	6th St
+49	6th St
+50	6th St
+51	Cramton Auditorium
+52	Childers Hall
+53	Fine Arts
+54	Burr Gym
+55	School of Buisness
+56	6th St
+57	6th St
+58	6th St
+59	Howard Enrollment Management
+60	Miner Hall
+61	6th St
+62	6th St
+63	6th St
+64	6th St
+65	Douglass Hall
+66	6th St
+67	Administration Building
+68	6th St
+69	6th St
+70	Carnegie Building
+71	School of Social Work
+72	President's House 
+73	6th St
+74	6th St
+75	6th St
+76	6th & Howard 
+77	6th St
+78	6th St
+79	6th St
+80	Physics Building
+81	Architecture Building
+82	6th St
+83	6th St
+84	Downing Hall
+85	6th St
+86	6th St
+87	6th & College
+88	Daycare
+89	6th St
+90	6th St
+91	6th St
+92	6th St
+93	6th St
+94	6th & Bryant
+95	Bryant & Georgia
+96	iLab
+97	Georgia St
+98	Georgia St
+99	Georgia St
+100	Georgia & Barry
+101	Georgia & Eng walkway
+102	Georgia St
+103	Georgia St
+104	Georgia St
+105	Georgia & Howard
+106	Georgia St
+107	Georgia St
+108	Georgia St
+109	Georgia St
+110	Georgia & Euclid
+111	Georgia St
+112	Howard Pl
+113	Howard Pl
+114	Howard Pl
+115	Chapel
+116	Howard Pl
+117	Howard Pl
+118	Howard Pl
+119	Founder's Library
+120	UGL
+121	Howard & Blackburn
+122	Blackburn
+123	Locke Hall
+124	Howard U Middle School
+125	BlackBurn prkway
+126	BlackBurn prkway
+127	BlackBurn prkway
+128	BlackBurn prkway
+129	Blackburn prkway & ASB prkway
+130	ASB prkway
+131	ASB prkway
+132	ASB prkway
+133	ASB prkway
+134	ASB 
+135	School of Education
+136	Howard Pl
+137	Howard Pl
+138	Howard & 4th
+139	5th St
+140	5th St
+141	4th St
+142	Tubman Quad
+143	Wheatley Hall
+144	Truth Hall
+145	Baldwin Hall
+146	Crandall Hall
+147	Frazer Hall
+148	4th St
+149	4th St
+150	4th & College
+151	College St
+152	College St
+153	College St
+154	Biology Building
+155	Chemistry building
+156	College of Pharmacy
+157	4th St
+158	Annex
+159	4th & Bryant
+160	WHUT
+161	School of Communications
+162	Bryant St
+163	Bryant St
+164	6th St
+165	6th & W
+166	School of Medicine
+167	Student Health Center
+168	W & Georgia
+169	Georgia St
+170	Howard Bookstore
+171	Georgia St 
+172	HUH
+173	School of Dentistry
+174	Health Sciences Library
+175	W & 4th
+176	4th St
+177	W & 5th
+178	Georgia & Hospital
+179	Health Science yard
+180	Health Science yard
+181	W St
+182	Health Science yard
+183	Health Science yard
+184	Health Science yard
+185	Health Science yard
+186	Valley Path
+187	Valley Path
+188	Valley Path
+189	Valley Path
+190	Valley Path
+191	Valley Path
+192	Valley Path
+193	Valley Path
+194	Valley Path
+195	Yard Path
+196	Yard Path
+197	Yard Path
+198	Yard Path
+199	Yard Path
+200	Yard Path
+201	Yard Path
+202	Yard Path
+203	Yard Path
+204	Yard Path
+205	Yard Path
+206	Yard Path
+207	Yard Path
+208	Yard Path
+209	Yard Path
+210	Yard Path
+211	Yard Path
+212	Yard Path
+213	Yard Path
+214	Yard Path
+215	Burr Prkway
